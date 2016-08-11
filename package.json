@@ -1,0 +1,17 @@
+{
+  "name": "sdkman",
+  "version": "1.0.0",
+  "description": "方便使用任意的sdk, 主要有两步，一步获取公共参数，一步计算签名",
+  "main": "index.js",
+  "dependencies": {
+    "aliyun-ecs": "^0.0.3",
+    "moment": "^2.14.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fanwei",
+  "license": "ISC"
+}
