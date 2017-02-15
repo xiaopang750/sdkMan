@@ -1,6 +1,6 @@
 var sdkMan = require('./lib/sdk');
-var appId = 'L5QethA7ATmIltNr';
-var appSecret = 'fv4lkB8ijghio7XPoocsVD1MgOsJHZ';
+var appId = // 'L5QethA7ATmIltNr';
+var appSecret = // 'fv4lkB8ijghio7XPoocsVD1MgOsJHZ';
 var crypto = require('crypto');
 
 var sdk = sdkMan({
